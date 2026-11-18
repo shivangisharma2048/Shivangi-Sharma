@@ -1,3 +1,3 @@
 # Shivangi-Sharma
 this is my first Git repository.
-Author _ Shivangi Sharma
+Author - Shivangi Sharma
